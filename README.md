@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dickson Su
 
-<!--
-**dicksonsu/dicksonsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a researcher and evaluator with experience in mixed-methods research, data analysis, and impact evaluation for nonprofit and philanthropic organizations.
 
-Here are some ideas to get you started:
+## Areas of work
+- Program evaluation
+- Survey and administrative data analysis
+- Data cleaning and reproducible workflows in R
+- Spatial data analysis and visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+R, Stata, SQL, ArcGIS-adjacent spatial workflows in R, Markdown
+
+## Selected repositories
+- `higher-ed-mobility-analysis-showcase` — sanitized example of higher education quantitative analysis
+- `evaluation-workflow-demo` — sample evaluation workflow using R
+- `spatial-analysis-demo` — example spatial data workflow using shapefiles in R
+
+## Note
+Some professional work cannot be shared publicly due to confidentiality, so a number of the repositories here are sanitized or reconstructed examples designed to show workflow, documentation, and analytical approach.## Hi there 👋
